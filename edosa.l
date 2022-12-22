@@ -1,5 +1,10 @@
 #include "shell.h"
 
+/**
+ * main - run a loop for lines
+ *
+ * Returns: 1 on success
+ */
 int main(void)
 {
 	int i;
